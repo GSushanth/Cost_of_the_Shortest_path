@@ -1,0 +1,2 @@
+# Cost_of_the_Shortest_path
+The problem is to find a path from bottom left corner of g to top right corner; immediate right, immediate left, immediate up and immediate down only are possible (no diagonal moves). We consider a variant of the maze problem where a cost (positive value) or profit (negative value) is attached to visiting each location in the maze, and the problem is to find a path of least cost through the maze using Greedy Algorithm.
